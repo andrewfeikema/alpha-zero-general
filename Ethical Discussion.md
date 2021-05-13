@@ -1,0 +1,9 @@
+## On facial recognition by law enforcement
+
+In recent years, the use of facial recognition technology by law enforcement has expanded significantly. Surveillance in an effort against crime is nothing new- CCTV has become widespread in urban areas around the world, rather notoriously in the UK and China. But the emergence of systems that can immediately recognize an individual's identity is a significant development. 
+
+In the case of Clearview AI, the company has gathered billion of photos from social media networks and elsewhere on the internet. Given the information collected, (completely lacking consent of the public), the system can identify a large section of the population and can be used as a mass surveillance tool by any agency that uses it. It should also be noted that many of the people in the database don't have social media accounts. But they still might be recognized from images of them on friends' social media or elsewhere on the internet.
+
+Certain large tech companies have been found to be engaging in similar privacy violations. In Illinois, Facebook was forced to pay $650 million to its users for using images of peoples faces to identify them without their consent. In the hands of law enforcement, facial recognition presents other big issues. Those who value privacy, myself included, prefer not to be recognized when they go out. Should that preference extend to law enforcement without probable cause? Also, who is culpable when the program misidentifies a person as a wanted person? Is it the police who mistakenly arrest the person, or the program that misidentified? 
+
+Ultimately, the right to remain anonymous doesn't lie with any one agency or government. If individuals are willing to sacrifice this right for hope of security, the intrusion would not be as sinister. But since the public has never been asked, the choice has been made on our behalf.
