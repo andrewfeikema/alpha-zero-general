@@ -2,6 +2,7 @@
 
 For final project in Calvin CS 344 with Prof. Kenneth Arnold
 
+* [Training Notebook](https://github.com/andrewfeikema/alpha-zero-general/blob/master/Othello_Train_Trial_using_AlphaZero_General.ipynb)
 * [Technical Report](https://github.com/andrewfeikema/alpha-zero-general/blob/master/Technical_Report_Mastering_Othello_Without_Human_Knowledge.ipynb)
 * [Ethical Discussion](https://github.com/andrewfeikema/alpha-zero-general/blob/master/Ethical%20Discussion.md)
 * [General Explanation](https://github.com/andrewfeikema/alpha-zero-general/blob/master/General%20Explanation.md)
